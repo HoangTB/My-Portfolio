@@ -75,7 +75,7 @@ const skills = [{
 const dataportfolio = [{
         img: "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697257943/HoangTB/Screenshot_2023-10-14_111646_bd8nyc.png",
         description: "Ecomerce Web Jayden Shoes use HTML5, CSS3, JavaScript, Bootstrap",
-        link: "https://jayden-b4end4dm1-tbhoang95-gmailcom.vercel.app/",
+        link: "https://jayden.vercel.app",
     },
     {
         img: "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697257884/HoangTB/Screenshot_2023-10-14_112946_djdtxl.png",
@@ -85,7 +85,7 @@ const dataportfolio = [{
     {
         img: "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697257883/HoangTB/Screenshot_2023-10-14_113046_kxjggw.png",
         description: "Ecomerce Web Nike Fullstack With ReactJS, NodeJS(ExpressJS), MySQL",
-        link: "https://nike-type-scripts-q593.vercel.app/",
+        link: "https://nike-hoangtb.vercel.app",
     },
     {
         img: "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697257883/HoangTB/Screenshot_2023-10-14_113046_kxjggw.png",
