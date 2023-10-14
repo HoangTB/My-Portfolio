@@ -1,4 +1,4 @@
-const logotext = "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697253788/HoangTB/1_hbbzih.png";
+const logotext = "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697271610/HoangTB/1_osrmsc.png";
 const meta = {
     title: "Truong Bao Hoang",
     description: "I'm Truong Bao Hoang, a web developer.",
