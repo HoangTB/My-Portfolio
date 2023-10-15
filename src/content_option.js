@@ -11,7 +11,7 @@ const introdata = {
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Without requirements or design, programming is the art of adding bugs to an empty text file. -Louis Srygley-",
-    your_img_url: "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697255376/HoangTB/238700722_1700117533515987_1150959040732583828_n_rnapeb.jpg",
+    your_img_url: "https://res.cloudinary.com/dh6r4v7ei/image/upload/v1697375753/HoangTB/134683321_1537142589813483_8037626978242223409_n_oqd4rv.jpg",
 };
 
 const dataabout = {
