@@ -64,7 +64,7 @@ export const About = () => {
                 <div key={i}>
                   <Card className="skill-card">
                     <Card.Body>
-                      <h3 className="card-title">{skills.name}</h3>
+                      <img src={skills.name} />
                     </Card.Body>
                   </Card>
                 </div>

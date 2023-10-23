@@ -36,39 +36,39 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "HTML5",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
     },
     
     {
-        name: "CSS3",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
     },
     
     {
-        name: "Java Scripts",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
     },
     
     {
-        name: "ReactJS",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
     },
 
     {
-        name: "Bootstrap",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
     },
 
     {
-        name: "TypeScripts",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
     },
 
     {
-        name: "NodeJS",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
     },
 
     {
-        name: "NestJS",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg",
     },
 
      {
-        name: "MySQL",
+        name: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
     },
 ];
 
