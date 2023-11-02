@@ -16,7 +16,7 @@ const introdata = {
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "I love solving problems and enjoy learning! Currently, I'm a intern at RikkeiSoft Danang for full-stack developer. I have expereince with HTML5, CSS3, Javascript, ReactJS, NodeJS (ExpressJS and NestJS).",
+    aboutme: "I am a passionate Full-stack developer with extensive experience in web application development. I excel in Front-end technologies including HTML5, CSS3, JavaScript (both ES5 and ES6), along with Bootstrap. Additionally, I am proficient in Back-end development using NodeJS (including ExpressJS, NestJS) and have a strong command of MySQL for database management. I am also adept at utilizing GIT for source code management. With 3 years of living experience in Japan, my Japanese communication skills are decent, enabling me to work in demanding environments that require high communication proficiency.",
 };
 const worktimeline = [{
         jobtitle: "Intern Web Developer",
