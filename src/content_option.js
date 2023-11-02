@@ -19,9 +19,9 @@ const dataabout = {
     aboutme: "I love solving problems and enjoy learning! Currently, I'm a intern at RikkeiSoft Danang for full-stack developer. I have expereince with HTML5, CSS3, Javascript, ReactJS, NodeJS (ExpressJS and NestJS).",
 };
 const worktimeline = [{
-        jobtitle: "Web Developer",
+        jobtitle: "Intern Web Developer",
         where: "RIKKEI SOFT",
-        date: "09-2023 - Present",
+        date: "09/2023 - 10/2023",
     },
     {
         jobtitle: "Internships Trainee",
