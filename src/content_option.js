@@ -21,7 +21,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Intern Web Developer",
         where: "RIKKEI SOFT",
-        date: "09/2023 - 10/2023",
+        date: "05/2023 - 10/2023",
     },
     {
         jobtitle: "Internships Trainee",
